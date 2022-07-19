@@ -1,0 +1,36 @@
+SystemID PSX
+0756A0	d	u	0	MainRAM	Is Sparx Imortal
+0756C8	d	u	0	MainRAM	Number of gems collected
+0756CC	d	u	0	MainRAM	Set to 2
+075750	d	h	0	MainRAM	Dragon Counter
+075760	d	u	0	MainRAM	Alternates 1 and 0
+07579C	d	u	0	MainRAM	
+0757D8	d	h	0	MainRAM	GAME STATE
+07580C	d	h	0	MainRAM	
+075810	d	u	0	MainRAM	Egg Counter
+07582C	d	u	0	MainRAM	Lives
+075830	d	u	0	MainRAM	hmm
+075860	d	u	0	MainRAM	Gem Counter
+07587C	d	u	0	MainRAM	
+0758B4	d	h	0	MainRAM	Level
+0758D0	d	u	0	MainRAM	
+0758D5	d	h	0	MainRAM	
+0758E8	d	u	0	MainRAM	Eyball Counter
+07596C	d	h	0	MainRAM	Initial Level?
+075C88	d	h	0	MainRAM	Inputs
+075C88	d	b	0	MainRAM	Inputs
+076FE8	d	u	0	MainRAM	
+0772D8	d	u	0	MainRAM	Arty Dragon Counter
+077420	d	u	0	MainRAM	Arty Gem Counter
+077424	d	u	0	MainRAM	Stone Hill Gem Count
+077428	d	u	0	MainRAM	Dark Hollow Gem Count
+07742C	d	u	0	MainRAM	Town Square Gem Count
+077468	d	u	0	MainRAM	Beast Makers Gem Count
+077FC8	d	u	0	MainRAM	Displayed Gem Count
+077FCC	d	u	0	MainRAM	
+077FE0	d	u	0	MainRAM	Displayed Eyeballs
+078AD0	d	h	0	MainRAM	Spyro State
+078BB4	d	h	0	MainRAM	Grounded
+078BBC	d	s	0	MainRAM	Sparx level
+078B48	d	h	0	MainRAM	
+078B48	d	s	0	MainRAM	
